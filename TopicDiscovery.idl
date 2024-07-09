@@ -1,0 +1,6 @@
+module TopicDiscovery {
+    struct Data {
+         long messageID;
+         string message;
+    };
+};
